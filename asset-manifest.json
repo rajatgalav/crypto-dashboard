@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crypto-dashboard/static/css/main.e5527b7f.css",
-    "main.js": "/crypto-dashboard/static/js/main.9d4c24bc.js",
+    "main.js": "/crypto-dashboard/static/js/main.1867212b.js",
     "static/js/453.5ebd66a1.chunk.js": "/crypto-dashboard/static/js/453.5ebd66a1.chunk.js",
     "static/media/ubuntu-latin-ext-400-normal.woff2": "/crypto-dashboard/static/media/ubuntu-latin-ext-400-normal.9967dbf10fc3cb92edfb.woff2",
     "static/media/ubuntu-latin-ext-500-normal.woff2": "/crypto-dashboard/static/media/ubuntu-latin-ext-500-normal.46caae5f61be18653217.woff2",
@@ -41,11 +41,11 @@
     "static/media/ubuntu-greek-ext-400-normal.woff": "/crypto-dashboard/static/media/ubuntu-greek-ext-400-normal.ae079d7503d209554bf8.woff",
     "index.html": "/crypto-dashboard/index.html",
     "main.e5527b7f.css.map": "/crypto-dashboard/static/css/main.e5527b7f.css.map",
-    "main.9d4c24bc.js.map": "/crypto-dashboard/static/js/main.9d4c24bc.js.map",
+    "main.1867212b.js.map": "/crypto-dashboard/static/js/main.1867212b.js.map",
     "453.5ebd66a1.chunk.js.map": "/crypto-dashboard/static/js/453.5ebd66a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5527b7f.css",
-    "static/js/main.9d4c24bc.js"
+    "static/js/main.1867212b.js"
   ]
 }
